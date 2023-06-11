@@ -4,7 +4,7 @@
 - Summer 2023
 - Assignment 1
 - **Deadline:** 11 Jun 23:00
-- **Student Name Surname ID:** NEEDS TO BE UPDATED
+- **Student Name Surname ID:** Elshan Yusifli 8011
 
 ---
 

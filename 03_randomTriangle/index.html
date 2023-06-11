@@ -11,9 +11,11 @@
     
         <script id="fragment-shader" type="notjs">
             precision mediump float;
-    
+
+            uniform vec4 colorOfUniform;
+            
             void main() {
-                gl_FragColor = vec4(0.1, 0.5, 0.4, 1);
+                gl_FragColor = colorOfUniform;
             }
         </script>
 
@@ -26,5 +28,7 @@
         <canvas id="webgl-canvas" width="400" height="300">
             Your browser doesn't support WebGL.
         </canvas>
+
+        
     </body>
 </html>
